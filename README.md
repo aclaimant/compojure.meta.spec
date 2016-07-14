@@ -1,6 +1,6 @@
 # compojure.meta.spec
 
-A Clojure library designed to ... well, that part is up to you.
+Enforce clojure.specs on compojure requests and responses.
 
 ## Usage
 
