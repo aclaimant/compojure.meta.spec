@@ -1,5 +1,7 @@
 # compojure.meta.spec
 
+Warning: WIP
+
 Enforce clojure.specs on compojure requests and responses.
 
 ## Usage
