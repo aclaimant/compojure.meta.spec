@@ -1,7 +1,7 @@
 (ns aclaimant.compojure.meta.spec
   (:require
     [aclaimant.compojure.meta :as compojure.meta]
-    [clojure.spec :as s]))
+    [clojure.spec.alpha :as s]))
 
 (defn ^:private assert-conforms [spec v]
   (s/assert spec v)
