@@ -1,4 +1,4 @@
-(defproject com.aclaimant/compojure.meta.spec "0.1.3-SNAPSHOT"
+(defproject com.aclaimant/compojure.meta.spec "0.2.0"
   :description "Enforce clojure.specs on compojure requests and responses"
   :url "https://aclaimant.com/"
   :license {:name "Eclipse Public License"
