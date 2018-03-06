@@ -1,6 +1,6 @@
 # compojure.meta.spec
 
-Warning: WIP
+Warning: UNMAINTAINED
 
 Enforce clojure.specs on compojure requests and responses.
 
